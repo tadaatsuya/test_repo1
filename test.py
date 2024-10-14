@@ -5,3 +5,6 @@ print("before:", arr)
 arr += 1
 
 print("after:", arr)
+
+def print_hello():
+    print("hello")
